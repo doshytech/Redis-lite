@@ -1,4 +1,4 @@
-## 🚀 Project: Redis-Lite
+## Redis-Lite
 
 ### Introduction
 
